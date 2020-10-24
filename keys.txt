@@ -1,0 +1,26 @@
+الفواكه == 1
+الخضراوات == 2
+الخبز == 3
+السندويشات == 4
+االفطائر == 5
+الكروسون == 6
+السلع الاساسيه == 7
+المجمده == 8
+المبرده == 9
+المعلبات == 10
+تسالي وحلويات == 11
+منتجات حيوانيه == 12
+منتجات سمكيه == 13
+
+notfication:-
+//client
+0 ->> admin
+1 ->> new Offer
+2 ->> complaint answered || complaint sent
+3 ->> order added
+4 ->> rete your order
+
+//seller
+0->> admin
+1->> Been approved
+2->> Complaints Department
